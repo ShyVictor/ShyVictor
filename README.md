@@ -8,12 +8,7 @@ Currently working in industrial automation and microcontrollers. Experience with
 I work on some Russian projects, sometimes. I am passionate about the language and a scholar of it.
 
 <h2> Shy Victor's Github Stats </h2>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShyVictor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyVictor&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
