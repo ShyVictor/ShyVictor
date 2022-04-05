@@ -1,10 +1,25 @@
-### Hi 👋, I'm Shy Victor
-My name is Victor, I'm 19 years old.
-I am currently a student of Physics, working on some separate cybersecurity projects.
-
-<b>Electronics Technician</b> (2018-2020)</br>
-<b>Bachelor of Theoretical Physics</b> (2021-)</br>
-<b>Specialization in Deep Learning and Neural Networks</b> (IA Expert Academy 2021-)<br>
 
 
+### Welcome to my Github
+
+Hi, my name is Victor Hugo. I'm 20 years old. I am currently majoring in theoretical physics, especially in the field of quantum computing. I have a degree in electronics (2018-2020), in addition to being an enthusiast in mathematical models of artificial intelligence and neural networks.
+
+
+You might see me contributing to Minecraft related projects and cybersecurity projects.
+
+Electronics Technician (2018-2020)
+Bachelor of Theoretical Physics (2021-)
+Specialization in Deep Learning and Neural Networks (IA Expert Academy 2021-)
+
+## Interests
+
+- Programming Languages: Java, Python, R.
+- Microcontrollers: Arduino, PIC, CLP, ESP32 & Raspberry Pi
+- Databases: MySQL, MongoDB, SQLite
+- Cloud: Google Cloud
+- Frameworks: Spring, Quarkus.
+
+### Where to find me
+
+[![Gmail](https://img.shields.io/badge/-victorlor3ntz@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorlor3ntz@gmail.com)](mailto:victorlor3ntz@gmail.com)
 
