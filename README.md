@@ -9,9 +9,9 @@ You might see me contributing to Minecraft related projects and cybersecurity pr
 
 ## Resume
 
-- Electronics Technician [b](2018-2020)[\b]
+- Electronics Technician (2018-2020)
 - Bachelor of Theoretical Physics (2021-)
-- Specialization in Deep Learning and Neural Networks [b](IA Expert Academy 2021-)[\b]
+- Specialization in Deep Learning and Neural Networks (IA Expert Academy 2021-)
 - Electrical installations & Industrial processes
 
 ## Interests
