@@ -7,9 +7,12 @@ Hi, my name is Victor Hugo. I'm 20 years old. I am currently majoring in theoret
 
 You might see me contributing to Minecraft related projects and cybersecurity projects.
 
-Electronics Technician [b](2018-2020)[\b]
-Bachelor of Theoretical [b]Physics (2021-)[\b]
-Specialization in Deep Learning and Neural Networks [b](IA Expert Academy 2021-)[\b]
+## Resume
+
+- Electronics Technician [b](2018-2020)[\b]
+- Bachelor of Theoretical Physics (2021-)
+- Specialization in Deep Learning and Neural Networks [b](IA Expert Academy 2021-)[\b]
+- Electrical installations & Industrial processes
 
 ## Interests
 
