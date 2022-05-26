@@ -18,9 +18,9 @@ You might see me contributing to Minecraft related projects and cybersecurity pr
 
 - Programming Languages: Java, Python, R.
 - Microcontrollers: Arduino, PIC, CLP, ESP32 & Raspberry Pi
-- Databases: MySQL, MongoDB, SQLite
+- Databases: MySQL, MongoDB, SQLite, Redis
 - Cloud: Google Cloud
-- Frameworks: Spring, Quarkus.
+- Frameworks: Spring, Quarkus, RabbitMQ Implementation
 
 ### Where to find me
 
