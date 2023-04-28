@@ -14,7 +14,7 @@ Meus interesses são em: aplicações web, sistemas distribuídos, protocolos de
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShyVictor&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="ShyVictor" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyVictor&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyVictor&layout=compact&hide_border=true&title_color=A8A9A9&text_color=A9A9A9&bg_color=0d1117" />
 </div>
 
 
