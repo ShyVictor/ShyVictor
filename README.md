@@ -1,9 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-
-<p align="justify">Olá, meu nome é Victor. Possuo vinte e um anos e a maior paixão da minha vida é a tecnologia. Comecei a programar aproximadamente com dez ou onze anos, não me lembro ao certo, no velho e conhecido Visual Basic. De lá pra cá meu interesse na área aumentou intensamente com o passar do tempo, pois gosto de cumprir desafios e levar autenticidade em soluções para problemas que desafiem métodos convencionais. Acredito que devemos enxergar possibilidade onde os outros veem limitações.</p>
-
-<p align="justify">Atualmente faço faculdade de Bacharelado em Física com ênfase em física teórica mas também curso ciência da computação realizando diversas cadeiras para complementar minha formação. Faço pesquisa juntamente com um dos professores do departamento de matemática da minha universidade na área de machine learning e ferramentas matemáticas nessa abordagem. </p>
-
 <p align="justify">Meus interesses são em: aplicações web, sistemas distribuídos, protocolos de comunicação, redes e microkernels. Também gosto de machine learning e ciência de dados.</p>
 
 
