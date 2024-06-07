@@ -22,6 +22,6 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="40" height="40"/> </a>  </p>
 
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/ShyVictor/ShyVictor/main/star.gif');]{x0000}$}
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: 
+url('https://raw.githubusercontent.com/ShyVictor/ShyVictor/main/kassadin.gif');]{x0000}$}
