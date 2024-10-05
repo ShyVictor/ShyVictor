@@ -1,4 +1,4 @@
-<p align="justify">Meus interesses são em: aplicações web, sistemas distribuídos, protocolos de comunicação, redes e microkernels. Também gosto de machine learning e ciência de dados.</p>
+<p align="justify">Hello, my name is Victor, I'm twenty-two years old and I've been a self-taught developer since I was about ten. I have a degree in electronics, so expect to see a lot of low-level architecture projects like ESP32. I'm currently studying a Bachelor's degree in Physics with an emphasis on theoretical physics and my academic focus is quantum computing. Regarding software engineering, I'm very interested in microkernels, distributed systems, low-level networks, and communication protocols. I also really like artificial intelligence and data science, I worked for about a year in academic research on machine learning and advanced and modern mathematical tools at its base.</p>
 
 
 
